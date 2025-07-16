@@ -12,7 +12,7 @@
 *Background image by [kvacm](https://kvacm.artstation.com)*
 
 ## In Action
-[![YouTube](http://i.ytimg.com/vi/kIJOj_6Jimk/hqdefault.jpg)](https://www.youtube.com/watch?v=kIJOj_6Jimk)  
+[![PeerTube](https://video.hardlimit.com/lazy-static/previews/7375721b-1f91-4ce2-9f22-370619be70a0.jpg)](https://video.hardlimit.com/w/9475568c-76a3-47de-b62f-5fe3ef833ec6)  
 (click on the image to play)
 
 @danie10 created this amazing video going over all the details and features of StreamController. You can use the available timestamps to jump to specific parts of the video.
